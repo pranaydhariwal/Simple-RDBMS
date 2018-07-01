@@ -1,0 +1,6 @@
+|name		|id		|age		|sex		
+suhas, 684, 20, M
+nayak, 692, 20, M
+dhariwal, 762, 20, M
+shruthi, 325, 30, F
+deeksha, 3523, 22, F

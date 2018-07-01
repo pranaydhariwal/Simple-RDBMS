@@ -1,2 +1,3 @@
-# Simple-RDBMS
-Implemented a SQL Query Parser using Lex and Yacc tools and building a basic file system for data storage and manipulation.
+Basic RDBMS - Advanced Database Management System
+Simple SQL Parser -- commands similar to SQL.
+Data storage using File system provided by the Operating system.
